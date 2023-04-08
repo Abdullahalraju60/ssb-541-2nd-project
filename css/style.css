@@ -1,0 +1,33 @@
+ .logo{
+    background-color: cadetblue;
+    text-align: center;
+    color: honeydew;
+ }
+ .p1{ 
+    text-align: center;
+     
+ }
+ .p2{
+    text-align: center;
+    border: 2px solid;
+    background-color: aqua;
+ }
+ body{
+    background-color: azure;
+ }
+ .p3{
+    text-align: center;
+    border: 2px solid;
+    background-color: darkgrey;
+ }
+ address{
+   text-align: center;
+   border: 3px solid;
+ }
+ .contract{
+     text-align: center;
+     border: 3px solid yellow;
+  }
+ footer{
+   text-align: center;
+ }
